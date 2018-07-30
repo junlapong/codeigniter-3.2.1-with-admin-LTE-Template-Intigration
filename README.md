@@ -1,5 +1,5 @@
-# codeigniter-3.2.1-with-admin-LTE-Template-Intigration
-## Admin LTE templete with php codeigniter 3.2.1 latest version intigration
+# codeigniter admin-LTE
+## Admin LTE templete with php codeigniter 3.x intigration
 
 Download the code from repository. Unzip the zip file. 
 
@@ -15,15 +15,15 @@ The login screen will appear.
 I am going to provide the user-email ids and password below. 
 
 ### System Administrator Account : 
-  * email : admin@bewithdhanu.in 
+  * email : admin@mail.com
   * password : 123456 
 
 ### Manager Account : 
-  * email : manager@bewithdhanu.in 
+  * email : manager@mail.com
   * password : 123456 
 
 ### Employee Account 
-  * email : employee@bewithdhanu.in 
+  * email : employee@mail.com 
   * password : 123456 
 
 Once you logged in with System Administrator account, you can create user or edit previous user if you want.
